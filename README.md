@@ -52,7 +52,6 @@ You can try the full app instantly in your browser using Google Colab:
   - ✅ **Tone Check** – Ensures email matches the intended tone.
 - Selects the best generated email and hands it off to the Email Manager.
 
----
 
 #### 📬 Email Manager Agent
 
